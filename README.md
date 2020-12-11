@@ -1,0 +1,5 @@
+- 1、class.py 生成垃圾类文件
+- 2、function.py 方法
+- 3、header.py 头文件
+- 4、resource.py 资源文件
+- 5、localizable.py 国际化文件
